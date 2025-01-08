@@ -53,7 +53,7 @@ There are multiple ways you can start using LocalStack. I'm showing you to imple
        - **Default region name [None]**: *us-east-1*
        - **Default output format [None]**: *json*
      - I entered as shown above
-8. Create a docker-compose file which contains the localstack's service. [Refer this]()
+8. Create a docker-compose file which contains the localstack's service. [Refer this](https://github.com/RahulRoy-rsp/LocalStack/blob/main/docker-compose.yml)
 9. Start the container
    ```bash
      docker-compose up -d
